@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me *khushnoodbilal75@gmail.com*
 
-- ⚡ Fun fact *I am called Happy 😃*
+- ⚡ Fun fact *I am also called Happy 😃*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
