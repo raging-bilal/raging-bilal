@@ -1,45 +1,111 @@
-### Hi there 👋
+# Hi, I'm Khushnood Bilal 👋
 
-<!--
-**raging-bilal/raging-bilal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Ph.D. Research Scholar in Computer Science | Aligarh Muslim University
 
-Here are some ideas to get you started:
+**Federated AI · Large Language Models · Retrieval-Augmented Generation · Machine Learning**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Khushnood Bilal</h1>
-<h3 align="center">Software Engineer</h3>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raging-bilal&label=Profile%20views&color=0e75b6&style=flat" alt="raging-bilal" /> </p>
+## About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raging-bilal" alt="raging-bilal" /></a> </p>
+I am a Ph.D. Research Scholar in the Department of Computer Science at Aligarh Muslim University, India. My research interests lie at the intersection of Artificial Intelligence, Large Language Models, Information Retrieval and Distributed Systems.
 
-- 🔭 I’m currently working on [Smart Contract using BlockChain](https://github.com/exc33ded/HealthDS)
+My doctoral research focuses on the **design, analysis and evaluation of Federated Language Model Systems**, with particular interest in privacy-aware collaboration, federated retrieval, communication efficiency and trustworthy AI.
 
-- 🌱 I’m currently learning *Data Mining, Cryptography, Computer Network, Flask, Machine Learning, Deep Learning*
+Alongside my research, I have worked on machine learning, computer vision, blockchain applications and software development projects. I have research publications in IEEE conference proceedings and the *International Journal of Information Technology* (Springer).
 
-- 💬 Ask me about *Blockchain*
+## Current Research
 
-- 📫 How to reach me *khushnoodbilal75@gmail.com*
+**Design, Analysis and Evaluation of Federated Language Model Systems**
 
-- ⚡ Fun fact *I am also called Happy 😃*
+My ongoing research explores:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- Federated Learning and Federated Retrieval-Augmented Generation (FedRAG).
+- Distributed knowledge repositories and collaborative inference.
+- Privacy-aware information exchange.
+- Communication-efficient retrieval coordination.
+- Non-IID data and heterogeneous client environments.
+- System evaluation, scalability and robustness.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## Research Interests
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raging-bilal&show_icons=true&locale=en&layout=compact" alt="raging-bilal" /></p>
+- Federated Learning
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Federated RAG
+- Generative AI
+- Machine Learning and Deep Learning
+- Computer Vision
+- Privacy-Preserving and Trustworthy AI
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raging-bilal&show_icons=true&locale=en" alt="raging-bilal" /></p>
+## Selected Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raging-bilal&" alt="raging-bilal" /></p>
+**1. Driver Drowsiness Detection System**
+
+A computer vision-based project using Convolutional Neural Networks (CNNs) to identify eye-state patterns associated with driver fatigue.
+
+- Dataset: MRL Eye Dataset
+- Technologies: Python, OpenCV, TensorFlow, Keras and Pygame.
+- Achievement: Runner-up (Second Place), AMU Hacks 2.0, February 2023.
+
+[View Project Repository](https://github.com/exc33ded/Geeks-Of-Innovation-Driver-Drowsiness-Detection-System)
+
+**2. Smart Contract for Initial Coin Offering (ICO)**
+
+An academic blockchain project involving Solidity-based smart contracts, Ethereum and Web3 technologies.
+
+[View Project Repository](https://github.com/raging-bilal/SMART-Contract-ICO)
+
+## Preliminary Research Experiments
+
+**Federated Retrieval-Augmented Generation (FedRAG)**
+
+Preliminary experimental work involving:
+
+- BEIR datasets: SciFact, FiQA, ArguAna and SciDocs.
+- Sparse retrieval using BM25.
+- Dense retrieval using Sentence Transformers.
+- FAISS-based vector indexing.
+- K-Means-based distributed client partitioning.
+
+## Selected Publications
+
+**1. Machine learning-based predictive modeling of student counseling gratification: A case study of Aligarh Muslim University**
+
+*International Journal of Information Technology*, Springer, Volume 16, pp. 1909–1915, 2024.
+
+[Read Publication](https://doi.org/10.1007/s41870-023-01620-0)
+
+**2. Blockchain Technology: Opportunities & Challenges**
+
+*2022 International Conference on Data Analytics for Business and Industry (ICDABI)*, IEEE, pp. 519–524, 2022.
+
+[Read Publication](https://doi.org/10.1109/ICDABI56818.2022.10041562)
+
+## Technical Skills
+
+**Programming:** Python, Java, Solidity, JavaScript, SQL.
+
+**AI and Machine Learning:** Machine Learning, Deep Learning, CNNs, TensorFlow, Keras, OpenCV.
+
+**Information Retrieval:** BM25, Sentence Transformers, FAISS.
+
+**Development:** Django, SQLite, Bootstrap, Git and GitHub.
+
+**Blockchain:** Ethereum, Solidity, Smart Contracts, MetaMask and Web3.
+
+## Academic Qualifications
+
+- Ph.D. in Computer Science — Aligarh Muslim University (2026–Present).
+- Master of Computer Applications (MCA) — Aligarh Muslim University (2023–2025).
+- B.Sc. (Hons.) in Computer Applications — Aligarh Muslim University (2020–2023).
+
+**Academic Achievement:** UGC-NET Qualified (Assistant Professor category).
+
+## Connect With Me
+
+- **Email:** [khushnoodbil75@gmail.com](mailto:khushnoodbil75@gmail.com)
+- **LinkedIn:** [Khushnood Bilal](https://www.linkedin.com/in/khushnood-bilal/)
+- **Google Scholar:** [View Publications](https://scholar.google.com/citations?hl=en&user=JGlck80AAAAJ)
+
+I am interested in academic research, knowledge sharing and collaboration in Artificial Intelligence, Federated Learning and Large Language Models.
